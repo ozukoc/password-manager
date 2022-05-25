@@ -1,0 +1,18 @@
+{
+    "amaz": {
+        "email": "example@email.com",
+        "password": "M5!WamOm!y1$pwv"
+    },
+    "ebay": {
+        "email": "example@email.com",
+        "password": "RC%zWX1hl+i1q3IX3&7RnqN6YJ&"
+    },
+    "face1": {
+        "email": "example@email.com",
+        "password": "l1gI6F*+uag(VL+"
+    },
+    "www.example.com": {
+        "email": "example@email.com",
+        "password": "fg($N6b)X%a3Y6Os6S"
+    }
+}
